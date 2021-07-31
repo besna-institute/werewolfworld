@@ -24,7 +24,7 @@ Issues https://github.com/ktr-skmt/werewolfworld/issues
 * JSON Schema
   - JSON Schema Draft 7 http://json-schema.org/specification-links.html#draft-7
 * JSON-LD (for the village protocol)
-  - JSON-LD 1.1 https://json-ld.org/spec/latest/json-ld/
+  - JSON-LD 1.1 https://www.w3.org/TR/json-ld11/
 
 ---
 
